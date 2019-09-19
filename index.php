@@ -52,6 +52,7 @@
       <div class="starter-template">
         <h1>Bootstrap starter template</h1>
         <p class="lead">
+          <h1>Thanks Apostle Paul</h1>
           <!-- php env -->
           <?php
             echo "This text is coming from php. <br/> This means php is working"
